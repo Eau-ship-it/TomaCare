@@ -1,9 +1,9 @@
 # TomaCare
-##Diseño e implementacion de un Agente Inteligente basado en IoT para la automatización del proceso del cultivo del tomate chonto bajo
+Diseño e implementacion de un Agente Inteligente basado en IoT para la automatización del proceso del cultivo del tomate chonto bajo
 
 "Una nueva forma de cultivar"
 
-Creado especificamente para agricultores medios Colombianos de la region risaraldense4
+Creado especificamente pa agricultores medios Colombianos de la region risaraldense4
 
 Componentes y tecnologias:
 
@@ -50,9 +50,9 @@ Autor:
 
 Esteban Castaño Castaño
 
-###English version
+*English version*
 
-##Design and Implementation of an IoT-Based Intelligent Agent for the Automation of the Chonto Tomato Cultivation Process
+Design and Implementation of an IoT-Based Intelligent Agent for the Automation of the Chonto Tomato Cultivation Process
 
 "A new way to grow"
 
