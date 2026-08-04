@@ -50,6 +50,7 @@ Autor:
 
 Esteban Castaño Castaño
 
+==========================================================================================================================================
 *English version*
 
 Design and Implementation of an IoT-Based Intelligent Agent for the Automation of the Chonto Tomato Cultivation Process
