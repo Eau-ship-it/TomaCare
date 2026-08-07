@@ -97,8 +97,12 @@ The project is still in development, but due to its hardware limitations(for now
 All sensors and actuator working together, the next step is to adapt it to a Firebase Database.
 
 Actual Circuit
-![circuit]()
 
+![circuit](Images/image.png)
+
+Actual Wiring Diagram
+
+  ![Wiring](Prototipe-Offline/Wiring%20Diagram/Wiring%20Diagram.png)
 
 Author
 
