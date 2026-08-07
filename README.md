@@ -5,6 +5,7 @@ Hello, my name is Esteban, and I've been developing my personal project, TomaCar
 TomaCare is an intelligent agent based on models with an IoT system designed to improve climate control in Chonto tomato crops in the region. It will maintain constant soil temperature and humidity, as well as automated light levels, CO2 levels, and irrigation times. It will also provide alerts for the pH of the fertigation water and nutrient levels in the soil. TomaCare aims to improve greenhouse autonomy and eliminate human error, as well as address the challenges of immediate action due to the region's characteristically changeable climate.
 
 TomaCare
+
 "A new way to grow"
 
 Built specifically for medium-scale Colombian farmers in the Risaralda region.
@@ -89,10 +90,15 @@ Model-Based Intelligent Agent (ABM)
 Expert / knowledge-based system
 Multilayer perceptron neural network
 Memory module
+
 Project Status
 
 The project is still in development, but due to its hardware limitations(for now), it is impossible to release a real demo.
 All sensors and actuator working together, the next step is to adapt it to a Firebase Database.
+
+Actual Circuit
+![circuit]()
+
 
 Author
 
