@@ -81,7 +81,7 @@ void setup() {
 
   // RS485
   pinMode(PINRS485DERE, OUTPUT);
-  digitalWrite(PINRS485DERE, LOW); // RX por defecto
+  digitalWrite(PINRS485DERE, LOW); 
 
   Serial2.begin(RS485BAUD, SERIAL_8N1, PINRS485RX, PINRS485TX);
   Serial.println("RS485 iniciado");
@@ -189,10 +189,10 @@ void leerRS485() {
   }
   Serial.println();
 
-  // Validar formato: cuando el frame estÃ¡ bien alineado, resp[2] = 0x08
+  
   if (resp[2] != 0x08) {
     Serial.println("Frame RS485 desalineado, IGNORADO");
-    // NO tocamos rs485OK ni los datos: mantenemos la Ãºltima lectura vÃ¡lida
+    // NO se toca rs485OK ni los datos: mantenemos la Ãºltima lectura vÃ¡lida
     return;
   }
 
