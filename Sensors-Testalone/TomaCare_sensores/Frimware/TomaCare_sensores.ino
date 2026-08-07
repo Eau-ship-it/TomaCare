@@ -1,6 +1,6 @@
 #include "arduino_secrets.h"
 
-// ChontoAgent --- Lectura de Sensores + RS485 ZTS-3002 (v1.x corregido)
+// TomaCare --- Lectura de Sensores (v1.x corregido)
 
 // ------- Includes -------
 #include <Wire.h>
