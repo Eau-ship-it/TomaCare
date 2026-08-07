@@ -96,11 +96,11 @@ Project Status
 The project is still in development, but due to its hardware limitations(for now), it is impossible to release a real demo.
 All sensors and actuator working together, the next step is to adapt it to a Firebase Database.
 
-Actual Circuit
+Current Circuit
 
 ![circuit](Images/image.png)
 
-Actual Wiring Diagram
+Current Wiring Diagram
 
   ![Wiring](Prototipe-Offline/Wiring%20Diagram/Wiring%20Diagram.png)
 
