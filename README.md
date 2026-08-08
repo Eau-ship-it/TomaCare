@@ -94,7 +94,9 @@ Memory module
 Project Status
 
 The project is still in development, but due to its hardware limitations(for now), it is impossible to release a real demo.
+
 v0.1 All sensors and actuator working together, the next step is to adapt it to a Firebase Database.
+
 v0.2 All sistem Iot finished with Firebase Realtime Database, added a web pannel https://tomacare-335f7.web.app/devapp.html
 
 Current Circuit
